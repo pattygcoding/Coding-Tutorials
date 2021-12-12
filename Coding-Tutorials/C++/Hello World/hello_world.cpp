@@ -1,3 +1,7 @@
+/*
+    Patrick Goodwin
+    C++ Tutorial #2
+*/
 #include <iostream>
 using namespace std;
 
